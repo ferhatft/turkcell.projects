@@ -1,6 +1,6 @@
 
 
-# *Homework1* `src/main/java`
+# *Homework1* `src/main/java`  gün 2 ve 3
 * Classses
 * inheritance
 * methodOverloading
@@ -9,7 +9,12 @@
 * oopAdvanced
 * org.example
 * polymorphism
-* 
+
+
+[Medium](https://medium.com/@ferhattugrul/java-da-interface-implementation-dependency-injection-ve-abstract-class-7f3f828ce2d2) gün 3 ödev 4  
+
+
+[SQL](../sql/sql.md) gün 3 ödev 5
 
 # İnterface implementation
 
